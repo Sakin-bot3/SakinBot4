@@ -70,7 +70,7 @@ DEVELOPER : SAKIN
 
 🟣Facebook Account Link: 
 
-https://www.facebook.com/profile.php?id=100073238456269
+https://www.facebook.com/Xaico.Xakin
 
 
 🟢SUPPORT EMAIL: nursakin772@gmail.com`, attachment: fs.createReadStream(gifPath)}, threadID));
